@@ -1,18 +1,18 @@
 ## 第3回課題内容
 
-* ![サンプルアプリの確認1](image/サンプルアプリの確認)
-* ![サンプルアプリの確認2](image/サンプルアプリの確認2)
-* ![サンプルアプリの確認3](image/サンプルアプリの確認3)
+* ![サンプルアプリの確認1](image/サンプルアプリの確認.png)
+* ![サンプルアプリの確認2](image/サンプルアプリの確認2.png)
+* ![サンプルアプリの確認3](image/サンプルアプリの確認3.png)
 
 #### AP サーバー
 * Puma バージョン: 6.4.2
-* ![APサーバー停止](image/APサーバー停止)
-* ![bin/cloud9_dev再実行](image/bin/cloud9_dev再実行)
+* ![APサーバー停止](image/APサーバー停止.png)
+* ![bin/cloud9_dev再実行](image/bin/cloud9_dev再実行.png)
 
 #### DB サーバー  
 * MySQL バージョン: 8.4.0 
-* ![DBサーバー停止・確認1](image/DBサーバー停止・確認)
-* ![DBサーバー停止・確認2](image/Can'tconnecttolocalMySQLserver)
+* ![DBサーバー停止・確認1](image/DBサーバー停止・確認.png)
+* ![DBサーバー停止・確認2](image/Can'tconnecttolocalMySQLserver.png)
 * Rails の構成管理ツール名：Bundler
 
 
