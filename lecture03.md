@@ -7,12 +7,14 @@
 #### AP サーバー
 * Puma バージョン: 6.4.2  
  ![APサーバー停止](image/APサーバー停止.png)  
+ APサーバーを停止させた場合、アクセスできなくなる  
  ![bin/cloud9_dev再実行](image/bin:cloud9_dev再実行.png)
 
 #### DB サーバー  
 * MySQL バージョン: 8.4.0 
  ![DBサーバー停止・確認1](image/DBサーバー停止・確認.png)
- ![DBサーバー停止・確認2](image/Can'tconnecttolocalMySQLserver.png)
+ ![DBサーバー停止・確認2](image/Can'tconnecttolocalMySQLserver.png)  
+ DBサーバーを停止させた場合、アクセスできなくなる  
 * Rails の構成管理ツール名：Bundler
 
 
